@@ -9,13 +9,14 @@
 
 Click the Link below (Deployed on Goolge Cloud).
 
+https://magicbitstudio-dot-magicbitstudio.appspot.com/
+
 Type in Traffic Information and click Update.
 (Max 60 Char)
 (Max 20 Char/line)
 
 ***(Sample Data to Try)***
 
-https://magicbitstudio-dot-magicbitstudio.appspot.com/
 
 1. ACCIDENT EXIT 30
 DELAYS EXIT 27 – 30
